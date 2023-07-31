@@ -3,4 +3,5 @@ A series of challenges to flex my frontend skills ranging from small to medium s
 
 ## QR code
 A simple page displaying a QR code which leads to my github page
+
 <img src="static/qr_code.png" />
